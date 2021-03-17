@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    font-family: 'Calibri light';
+    font-size:14px;
+    background-color:#d6d4d4;
+
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    margin: 0px 20px 0px 0px;
+    display: block;
+    flex: 1;
+}
+.circle{
+    width:30px;
+    height:30px;
+    border-radius:50px;
+    font-size:20px;
+    line-height:100px;
+    text-align:center;
+    background:#000
+}
+
+.ad{
+    background-color:black;
+}
+.colors{
+	background-color: #b6b3b3;
+}
+
+.slider{
+    width:1080px;
+    height: 1920px;
+}
